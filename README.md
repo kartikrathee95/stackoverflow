@@ -48,7 +48,7 @@ Clone this repository
 
 1. Clone this project using
 ````
-$ git clone https://github.com/Yawan-1/StackOverFlow--Clone
+$ git clone https://github.com/kartikrathee95/stackoverflow.git
 ````
 
 For Postgresql usage*, you will need to download and install it.
